@@ -307,7 +307,7 @@ function showWinOverlay(){
   const youWon = scoreBot >= WIN_SCORE;
   const label  = youWon ? 'YOU WIN!' : 'CPU WINS';
   const cls    = youWon ? 'blue' : 'red';
-  const rankMsg = youWon ? '★ NEW HIGH SCORE ★' : '▶ CONTINUE?';
+  const rankMsg = youWon ? '★ NEW HIGH SCORE ★' : '';
   winOverlay = document.createElement('div');
   winOverlay.className = 'overlay';
   winOverlay.innerHTML = `
