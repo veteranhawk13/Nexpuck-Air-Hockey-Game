@@ -55,10 +55,6 @@ No build tools or dependencies required — it's plain HTML/CSS/JS.
 - CSS3 (custom properties, animations)
 - Vanilla JavaScript (no frameworks or libraries)
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 🙌 Credits
 
 Designed and developed as a retro arcade-style air hockey game — pixel art, CRT effects, and all.
